@@ -1,0 +1,183 @@
+.top-container
+{
+	background-color: #ecfcff;
+	position: relative;
+	padding-top: 9.375rem;
+	margin-bottom: 0.625rem;
+}
+body
+{
+	margin: 0;
+	text-align: center;
+	background-color: #ecfcff;
+	font-family: 'Merriweather', serif;
+}
+
+h1
+{
+	margin-top: 0px;
+	font-family: 'Sacramento', cursive;
+	font-size: 3rem;
+	margin-bottom: 0px;
+	color: #66BFBF;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+}
+
+h3
+{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+
+.middle-container
+{
+}
+
+.bottom-container
+{
+
+}
+.bottom-cloud
+{
+	position: absolute;
+	left: 18.75rem;
+	bottom: 18.75rem;
+}
+.top-cloud
+{
+	position: absolute;
+	right: 18.75rem;
+	top: 3.125rem;
+}
+
+hr
+{
+  border-style: dotted none none none;
+  background-color: white;
+  height: 0;
+  width: 5%;
+  border-top-width: 0.3125rem;
+  border-color: grey;
+}
+
+.dp
+{
+	height: 9.375rem;
+    width: 9.375;
+    border-radius: 50%;
+    margin-top: 0.8125rem;
+}
+
+.telecom
+{
+	height: 9.375rem;
+    width: 9.375rem;
+    border-radius: 50%;
+    margin-top: 0.8125rem;
+}
+
+.software
+{
+	height: 9.375rem;
+    width: 9.375rem;
+    border-radius: 5%;
+    margin-top: 0.8125rem;
+}
+
+.btn
+{
+    color: black;
+    text-decoration: none;
+}
+
+.footer-link
+{
+    color: black;
+    margin-left: 0.125rem;
+    margin-right: 0.125rem;
+    text-decoration: none;
+}
+
+a:hover
+{
+	color: blue;
+}
+
+.designation
+{
+	font-weight: normal;
+	margin-top: 0.125rem;
+	font-size: 1rem
+}
+
+.profile-description
+{
+	position: absolute;
+	text-align: left;
+	left: 17%;
+	top:39.375rem;
+}
+.profile
+{
+	position: absolute;
+	left: 5%;
+	top:39.375;
+}
+.skills
+{
+	position: absolute;
+	text-align: left;
+	left: 45%;
+	top:50rem;
+}
+
+.skill-row
+{
+	position: absolute;
+	left: 45%;
+	top:56.25rem;
+}
+.skill-description
+{
+	position: absolute;
+	text-align: left;
+	left: 57%;
+	top:56.25rem;
+}
+.skill-row2
+{
+	position: absolute;
+	left: 45%;
+	top:68.75rem;
+}
+
+.skill-description2
+{
+	position: absolute;
+	text-align: left;
+	left: 57%;
+	top:68.75rem;
+}
+
+.contact-me
+{
+	position: absolute;
+	text-align: center;
+	top:81.25rem;
+	left:20%;
+}
+
+.bottom-container
+{
+	position: absolute;
+	text-align: center;
+	top:93.75rem;
+	left:38.5%;
+}
+
